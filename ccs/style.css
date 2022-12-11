@@ -118,6 +118,12 @@ button {
 	font-style: normal;
 	text-decoration: none;
 	color: antiquewhite;
-	padding: 10px;
-	
+	padding: 10px;	
+}
+
+.banner_txt a:hover {
+	background-color: white;
+	color: rgb(234,0,42);
+	border: 2px solid rgb(234,0,42);
+	border-radius: 10px;
 }
